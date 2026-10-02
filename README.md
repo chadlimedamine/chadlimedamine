@@ -21,9 +21,7 @@ const mohamed = {
   taught:     "Python, C and web dev to university students, for 4 years",
   speaks:     ["العربية", "English", "Français", "Deutsch (A1, jeden Tag ein bisschen besser)"],
   offline:    "🚴 cycling: regional award winner, amateur category",
-  askMeAbout: ["EDIFACT, healthcare's favourite 1980s file format",
-    "the heap spike that ate 12 GB",
-    "teaching a CNN to read Arabic handwriting"],
+  askMeAbout: ["EDIFACT, healthcare's favourite 1980s file format", "the heap spike that ate 12 GB", "teaching a CNN to read Arabic handwriting"],
 } as const;
 ```
 
