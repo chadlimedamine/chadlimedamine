@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=2F81F7&center=true&vCenter=true&width=720&lines=Backend+engineer+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+TypeScript;I+turn+messy+real-world+input+into+systems+you+can+trust;PhD+in+AI+%C2%B7+I+taught+machines+to+read+Arabic+handwriting" alt="Backend engineer · Node.js · NestJS · TypeScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=2F81F7&center=true&vCenter=true&width=720&lines=Backend+engineer+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+TypeScript;I+turn+messy+real-world+input+into+systems+you+can+trust;PhD+in+AI+%C2%B7+I+taught+machines+to+read+Arabic+handwriting;Measure+first.+Fix+second.+Measure+again.;Slow+work+goes+on+a+queue%2C+never+in+the+request+path;Money+is+an+integer.+No+exceptions." alt="Backend engineer · Node.js · NestJS · TypeScript" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chadlimedamine-0A66C2?style=flat-square)](https://linkedin.com/in/chadlimedamine)
 [![Email](https://img.shields.io/badge/Email-mohamed.chadli.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.chadli.dev@gmail.com)
@@ -19,7 +19,7 @@ const mohamed = {
   motto:      "Measure first. Fix second. Measure again.",
   phd:        "AI / computer vision: Arabic handwriting recognition (2025)",
   taught:     "Python, C and web dev to university students, for 4 years",
-  speaks:     ["العربية", "English", "Français", "Deutsch (A1, jeden Tag ein bisschen besser)"],
+  speaks:     ["العربية", "English", "Français"],
   offline:    "🚴 cycling: regional award winner, amateur category",
   askMeAbout: ["EDIFACT, healthcare's favourite 1980s file format", "the heap spike that ate 12 GB", "teaching a CNN to read Arabic handwriting"],
 } as const;
@@ -130,14 +130,3 @@ The research took me to the Universidad de Castilla-La Mancha in Spain as an Era
 
 - [*Data Augmentation for Offline Arabic Handwritten Text Recognition Using Moving Least Squares*](https://doi.org/10.18280/ria.380101), Revue d'Intelligence Artificielle (IIETA), 2024
 - *Offline Arabic Handwritten Text Recognition for Unsegmented Words Using Convolutional Recurrent Neural Network*, Springer Nature, 2022
-
----
-
-<div align="center">
-
-**Building something where the backend has to be right? I'd love to hear about it.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/chadlimedamine)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.chadli.dev@gmail.com)
-
-</div>
